@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkillFactorySVN3211.BlogApp", "SkillFactorySVN3211.BlogApp\SkillFactorySVN3211.BlogApp.csproj", "{7EDEBE9D-B560-4143-B268-5B8BE4CA1FE6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkillFactorySVN3211.DAL", "SkillFactorySVN3211.DAL\SkillFactorySVN3211.DAL.csproj", "{567939C6-B97C-486D-9DFA-5CF21D73BD58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{B6D34F2F-9BC0-4EFD-8C86-6E46125825D2}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EDEBE9D-B560-4143-B268-5B8BE4CA1FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDEBE9D-B560-4143-B268-5B8BE4CA1FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDEBE9D-B560-4143-B268-5B8BE4CA1FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDEBE9D-B560-4143-B268-5B8BE4CA1FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{567939C6-B97C-486D-9DFA-5CF21D73BD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567939C6-B97C-486D-9DFA-5CF21D73BD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567939C6-B97C-486D-9DFA-5CF21D73BD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567939C6-B97C-486D-9DFA-5CF21D73BD58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B149FD3-0183-4A74-AFC5-EA6D68EFFD24}
+	EndGlobalSection
+EndGlobal
